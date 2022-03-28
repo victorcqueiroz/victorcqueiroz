@@ -1,7 +1,7 @@
 ### Olá a todos! Sou o Victor
 
 - 🔭 Estou trabalhando com back-end / I’m currently working on back-end services
-- 🌱 Estou estudando Node / I’m currently learning Node
+- 🌱 Estou estudando Node.js / I’m currently learning Node.js
 - 📫 Contato/Contact: contato.victorcqueiroz@gmail.com
 
 <div style="display: inline_block">
